@@ -16,8 +16,8 @@ function App() {
           Coming Soon
         </h1>
         <Timer />
-        <Optin />
-        <Preloader />
+        {/* <Optin /> */}
+        {/* <Preloader /> */}
       </div>
     </div>
   );
