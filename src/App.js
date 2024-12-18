@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <div className="container">
         <h1>
-          Website
+          Bait-ul-Nikah
           <br />
           Coming Soon
         </h1>
